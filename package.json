@@ -16,7 +16,9 @@
     "mongodb": "^6.3.0",
     "mongoose": "^8.1.2",
     "swagger-autogen": "^2.23.7",
-    "swagger-ui-express": "^5.0.0"
+    "swagger-ui-express": "^5.0.0",
+    "validationjs": "^0.0.9",
+    "validatorjs": "^3.22.1"
   },
   "devDependencies": {
     "jshint": "^2.13.6"
